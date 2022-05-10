@@ -32,5 +32,6 @@ int main()
         ++map[s];
 
     WriteTxt(map);
+    cout << "un fichier du nom de occurences.txt a ete cree" << endl;
     return 0;
 }
